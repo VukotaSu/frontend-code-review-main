@@ -10,7 +10,7 @@ import { MessageComponent } from '../message-component/message.component';
     NgForOf,
     MessageComponent
   ],
-  template: './chat.component.html'
+  templateUrl: 'chat.component.html'
 })
 
 export class ChatComponent implements OnInit {

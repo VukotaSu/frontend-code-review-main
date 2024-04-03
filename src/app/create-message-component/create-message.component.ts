@@ -14,7 +14,7 @@ import { NgClass, NgIf } from '@angular/common';
     NgIf,
     NgClass,
   ],
-  template: './create-message.component.html'
+  templateUrl: './create-message.component.html'
 })
 
 export class CreateMessageComponent {

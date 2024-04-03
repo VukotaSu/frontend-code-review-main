@@ -4,7 +4,7 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'app-massage',
   standalone: true,
-  template: './message.component.html',
+  templateUrl: './message.component.html',
   imports: [NgClass]
 })
 
